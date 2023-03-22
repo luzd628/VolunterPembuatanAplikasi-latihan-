@@ -7,4 +7,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
-* Seret, [Linkedin](https://wwww.google.com).
+* Seret, [Linkedin](https://www.google.com).
